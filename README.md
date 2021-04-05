@@ -19,6 +19,8 @@ Questions to be answered:
 - Which age groups complete the offer?
 - How well can we predict the success of offers?
 
+After data cleaning, I will use a few machine learning model to predict the offer success. 
+
 ## Dataset<a name="dataset"></a>
 
 The data is contained in three files:
@@ -58,7 +60,11 @@ Here is the schema and explanation of each variable in the files:
 
 ## Results<a name="results"></a>
 
-- The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://bernadett-kepenyes.medium.com/starbucks-capstone-challenge-f0a0cd6b18b1).
+
+In this project Decision Tree Classifier was the best model to predict the success of an offer.
+The challenge was great to work on a real-world project, and also shows that there is still room for improvement and needs to learn further how to finetune variables to reach the best prediction capability.
+
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
