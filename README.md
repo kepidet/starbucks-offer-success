@@ -15,11 +15,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For Udacity Capstone project, I chosed the Starbucks challenges to create machine learning model. The data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app.
 
-Questions to be answered:
-- Which age groups complete the offer?
-- How well can we predict the success of offers?
+My goal for this project is to answer what is the proportion of successful offers in the age groups, and what would be our advertisement and offer strategy for the future based on this past transaction data.
 
-After data cleaning, I will use a few machine learning model to predict the offer success. 
+After data cleaning, I will use a few machine learning model to predict the offer strategy. 
 
 ## Dataset<a name="dataset"></a>
 
@@ -54,15 +52,14 @@ Here is the schema and explanation of each variable in the files:
 
 ## File Descriptions <a name="files"></a>
 
-- 1 jupyter notebook to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.  
+- 3 jupyter notebooks to showcase work related to the above questions (clean the datasets, create new columns to define user categories, predict user categories). Markdown cells were used to assist in walking through the thought process for individual steps.  
 - data zip file for the above mentioned datasets
-- cleaned_data.csv file 
+- saved cleaned_df.csv, and success_df files
 
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://bernadett-kepenyes.medium.com/starbucks-capstone-challenge-f0a0cd6b18b1).
 
-In this project Decision Tree Classifier was the best model to predict the success of an offer.
 The challenge was great to work on a real-world project, and also shows that there is still room for improvement and needs to learn further how to finetune variables to reach the best prediction capability.
 
 
