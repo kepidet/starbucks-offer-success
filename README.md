@@ -58,7 +58,7 @@ Here is the schema and explanation of each variable in the files:
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://bernadett-kepenyes.medium.com/starbucks-capstone-challenge-f0a0cd6b18b1).
+The main findings of the code can be found at the post available [here](https://bernadett-kepenyes.medium.com/establish-future-success-for-starbucks-mobile-app-d360211c0848).
 
 The challenge was great to work on a real-world project, and also shows that there is still room for improvement and needs to learn further how to finetune variables to reach the best prediction capability.
 
